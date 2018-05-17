@@ -1,4 +1,4 @@
-# Neighborhood-Maps-App
+# Neighborhood-Maps-React
 
 This project is a single page application featuring a map of my neighborhood. I learned an amount about React. 
 

@@ -1,6 +1,6 @@
 # Neighborhood-Maps-App
 
-This project is a single page application featuring a map of my neighborhood. I learned an immense amount about React and improved my understanding of ES6 Javascript. My favorite thing about React (currently) is that through components you can create extremely organized code. 
+This project is a single page application featuring a map of my neighborhood. I learned an amount about React. 
 
 ## Getting Started
 
@@ -53,4 +53,4 @@ This project was created using create-react-app. Please run the project in produ
 ## Note
 
 API keys will be redacted upon completed review
-# Neidhborhood-Map-React-
+
